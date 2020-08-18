@@ -3,6 +3,7 @@
   "version": "1.0.0",
   "description": "An e-ink theme like for vscode",
   "scripts": {
+    "make": "vsce publish",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [
@@ -19,7 +20,7 @@
     "ink"
   ],
   "author": {
-    "name": "eddjrn"
+    "name": "edd"
   },
   "icon": "pen.png",
   "license": "ISC",
@@ -42,5 +43,8 @@
   "repository": {
     "type": "git",
     "url": "https://gitlab.com/eddjrn/vs-code-e-ink-theme"
+  },
+  "dependencies": {
+    "vsce": "^1.78.0"
   }
 }
