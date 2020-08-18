@@ -1,8 +1,43 @@
 {
-  "name": "vscode-eink-theme",
-  "version": "0.0.1",
-  "main": "index.js",
-  "repository": "git@github.com:DiamondYuan/vscode-eink-theme.git",
-  "author": "DiamondYuan <admin@diamondyuan.com>",
-  "license": "MIT"
+  "name": "e-ink",
+  "version": "1.0.0",
+  "description": "An e-ink theme like for vscode",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "e-ink",
+    "high",
+    "contrast",
+    "black",
+    "and",
+    "white",
+    "white",
+    "black",
+    "gray",
+    "electronic",
+    "ink"
+  ],
+  "author": "eddjrn",
+  "license": "ISC",
+  "publisher": "eddjrn",
+  "engines": {
+    "vscode": "^1.0.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "e-ink",
+        "uiTheme": "vs",
+        "path": "./themes/e-ink.json"
+      }
+    ]
+  },
+  "repository": {
+    "type": "git",
+    "url": ""
+  }
 }
