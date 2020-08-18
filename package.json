@@ -18,10 +18,12 @@
     "electronic",
     "ink"
   ],
-  "author": "eddjrn",
+  "author": {
+    "name": "eddjrn"
+  },
+  "icon": "pen.png",
   "license": "ISC",
   "publisher": "eddjrn",
-  "icon": "pen.png",
   "engines": {
     "vscode": "^1.0.0"
   },
@@ -39,6 +41,6 @@
   },
   "repository": {
     "type": "git",
-    "url": ""
+    "url": "https://gitlab.com/eddjrn/vs-code-e-ink-theme"
   }
 }
