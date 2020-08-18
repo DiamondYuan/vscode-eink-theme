@@ -21,6 +21,7 @@
   "author": "eddjrn",
   "license": "ISC",
   "publisher": "eddjrn",
+  "icon": "pen.png",
   "engines": {
     "vscode": "^1.0.0"
   },
