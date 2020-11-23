@@ -45,7 +45,7 @@
 		"url": "https://gitlab.com/eddjrn/vs-code-e-ink-theme"
 	},
 	"dependencies": {
-		"vsce": "^1.78.0"
+		"vsce": "^1.81.1"
 	},
 	"__metadata": {
 		"id": "6e4e601c-0723-4c80-aeb2-244291404edd",
