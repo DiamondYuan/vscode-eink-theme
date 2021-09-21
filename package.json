@@ -1,0 +1,8 @@
+{
+  "name": "vscode-eink-theme",
+  "version": "0.0.1",
+  "main": "index.js",
+  "repository": "git@github.com:DiamondYuan/vscode-eink-theme.git",
+  "author": "DiamondYuan <admin@diamondyuan.com>",
+  "license": "MIT"
+}
