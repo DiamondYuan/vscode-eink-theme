@@ -46,10 +46,5 @@
   },
   "dependencies": {
     "vsce": "^1.81.1"
-  },
-  "__metadata": {
-    "id": "6e4e601c-0723-4c80-aeb2-244291404edd",
-    "publisherDisplayName": "eddjrn",
-    "publisherId": "33afc844-f500-434c-9b9d-33e664bb03c5"
   }
 }

@@ -1,5 +1,7 @@
 # E-ink theme for VS-code
 
+this repo is fork from [Gitlab](https://gitlab.com/eddjrn/vs-code-e-ink-theme) by @eddjrn
+
 This is a theme designed to be used on e-ink monitors or to be used by people who needs high contrast and very defined elements.
 
 Tested on e-ink monitor "Waveshare 10.3 inch E-paper".
